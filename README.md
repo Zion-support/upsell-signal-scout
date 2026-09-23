@@ -16,5 +16,8 @@ Part of the [Zion Tech Group App Network](https://github.com/Zion-support/zion-a
 ## Related apps in the network
 [churn-risk-radar](https://github.com/Zion-support/churn-risk-radar) · [customer-health-scorer](https://github.com/Zion-support/customer-health-scorer) · [nps-insight-engine](https://github.com/Zion-support/nps-insight-engine) · [onboarding-journey-tracker](https://github.com/Zion-support/onboarding-journey-tracker) · [support-sentiment-monitor](https://github.com/Zion-support/support-sentiment-monitor) · [ai-sales-email-copilot](https://github.com/Zion-support/ai-sales-email-copilot) · [proposal-builder-ai](https://github.com/Zion-support/proposal-builder-ai)
 
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Customer Success & Retention](https://github.com/Zion-support/zion-network/blob/main/network/customer-success-retention.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+
 ---
 © 2026 [Zion Tech Group](https://ziontechgroup.com/)
